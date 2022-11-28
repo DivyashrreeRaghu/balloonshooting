@@ -204,7 +204,6 @@ void main()
                 free(balloon);
                 closegraph();
             }
-// Downloaded from www.indiaexam.in
                 void draw_balloon(int x,int y)
                 {
                 setcolor(RED);
